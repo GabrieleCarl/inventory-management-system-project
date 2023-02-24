@@ -32,6 +32,8 @@ I comandi disponibili sono i seguenti:
 
 - chiudi: esci dal programma
 
+
+
 Inserisci un comando: **aggiungi**
 
 Nome del prodotto: **latte di soia**

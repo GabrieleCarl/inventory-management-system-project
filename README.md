@@ -32,7 +32,7 @@ I comandi disponibili sono i seguenti:
 
 - chiudi: esci dal programma
 
-Inserisci un comando: **aggiungi**
+Inserisci un comando: **aggiungi**\n
 Nome del prodotto: **latte di soia**
 Quantità: **20**
 Prezzo di acquisto: **0.80**

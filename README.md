@@ -17,6 +17,7 @@ Il software è testuale, quindi utilizzabile da riga di comando.
 ### ESEMPIO DI INTERAZIONE CON IL PROGRAMMA (in grassetto l'input dell'utente)
 
 Inserisci un comando: **aiuto**
+
 I comandi disponibili sono i seguenti:
 
 - aggiungi: aggiungi un prodotto al magazzino
